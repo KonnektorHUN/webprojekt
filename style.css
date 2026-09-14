@@ -5,3 +5,7 @@ h1 {
     letter-spacing: 2px;
     color: blue;
 }   
+
+body {
+    background-color: lightyellow;
+}
